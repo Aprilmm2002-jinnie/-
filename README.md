@@ -13,7 +13,7 @@
 ![Photoshop](https://img.shields.io/badge/设计-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Modao](https://img.shields.io/badge/原型设计-墨刀%20(Modao)-red?style=flat-square)
 ![SQL](https://img.shields.io/badge/数据分析-SQL-orange?style=flat-square&logo=mysql&logoColor=white)
-![AIGC](https://img.shields.io/badge/AIGC-Stable%20Diffusion%20%7C%20MidJourney-purple?style=flat-square)
+![AIGC](https://img.shields.io/badge/AIGC-即梦%20%7C%20即创%20%7C%20MidJourney-purple?style=flat-square)
 ![Video Editing](https://img.shields.io/badge/视频剪辑-剪映%20%7C%20Sobey-green?style=flat-square)
 ![Office](https://img.shields.io/badge/办公软件-Office%20Suite-B7472A?style=flat-square&logo=microsoft-office&logoColor=white)
 
